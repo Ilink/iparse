@@ -1,19 +1,8 @@
-= iparse
+= iParse - iTunes Plist Parsing for Rails
 
-Description goes here.
+Not quite ready for prime-time. The Gem was created with [Jeweler](https://github.com/technicalpickles/jeweler). If you want to install, run the command <pre><code>rake install</code></pre> in the directory. The gem will then be available for your projects.
 
-== Contributing to iparse
- 
-* Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet
-* Check out the issue tracker to make sure someone already hasn't requested it and/or contributed it
-* Fork the project
-* Start a feature/bugfix branch
-* Commit and push until you are happy with your contribution
-* Make sure to add tests for it. This is important so I don't break it in a future version unintentionally.
-* Please try not to mess with the Rakefile, version, or history. If you want to have your own version, or is otherwise necessary, that is fine, but please isolate to its own commit so I can cherry-pick around it.
+I hope to release the gem to Rubygems soon.
 
-== Copyright
-
-Copyright (c) 2011 Ian Link. See LICENSE.txt for
-further details.
-
+==To Do
+* Write tests!
